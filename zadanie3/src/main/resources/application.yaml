@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo
+openweather:
+  base-url: https://api.openweathermap.org
+  api-key: ${API_KEY}
