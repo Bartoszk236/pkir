@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import com.example.demo.dto.ForecastResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClient;
